@@ -19,3 +19,11 @@ Recordando que también debe ser posible convertir inversamente, es decir:
         - Convertir de Libras Esterlinas a la moneda de tu país
         - Convertir de Yen Japonés a la moneda de tu país
         - Convertir de Won sul-coreano a la moneda de tu país
+
+En el archivo Logica.java podran encontrar la logica que se utilozo a la horta de converitr las monedas.
+ya que no use una base de datos, hice manualmente la conversion asi que esta podria variar con el valor de las monedas actual.
+
+En el archivo Pantalla.java porsn encontar todo el codigo de Swing, la mayoria de codigo es automatico, aun asi toda la funcionalidad
+se la di al boton "Converitr" que podran encontrar en la linea 135 que lleva este nombre
+"private void convertirActionPerformed(java.awt.event.ActionEvent evt)"
+donde se ejecutan los metodos y funcionalidades.
